@@ -127,5 +127,4 @@ if __name__=="__main__":
         elif 'who created you' in query:
             speak("I have been created by Maithili")
 
-        # elif 'calculate' in query:
-
+        
